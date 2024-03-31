@@ -16,5 +16,8 @@ Depois de analisar os dados você deve preparar um relatório usando *`word`*(ou
 
 - Um cronograma de quando as ações serão tomadas
 
-Obs 1: Os setores da Ceos são Adm-financeiro, Comercial, Marketing, Pessoas e Projetos
-Obs 2: Para o cronograma considere que o inicio do plano de ação será no dia 08/04/2024
+#### *`Observações`*
+
+- Os setores da Ceos são Adm-financeiro, Comercial, Marketing, Pessoas e Projetos
+
+- Para o cronograma considere que o inicio do plano de ação será no dia 08/04/2024
